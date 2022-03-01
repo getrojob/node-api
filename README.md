@@ -26,8 +26,8 @@ npx jest --init
 	√ Automatically clear mock calls, instances and results before every test? ... Yes
 ```	
 ```bash
-	npm i ts-node -D
+npm i ts-node -D
 ```
 ```bash
-	npm i @types/jest -D
+npm i @types/jest -D
 ```
